@@ -1,0 +1,233 @@
+/* Add to your existing index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Advanced Lightning Effects */
+.lightning-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.lightning-flash {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  animation: flash 3s infinite;
+}
+
+@keyframes flash {
+  0%, 100% {
+    opacity: 0;
+  }
+  0.1%, 0.3% {
+    opacity: 0.3;
+  }
+  0.2% {
+    opacity: 0.7;
+  }
+}
+
+/* Enhanced Neon Text Effect */
+.neon-text {
+  color: #fff;
+  text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px rgb(251, 191, 36),
+    0 0 82px rgb(251, 191, 36),
+    0 0 92px rgb(251, 191, 36),
+    0 0 102px rgb(251, 191, 36),
+    0 0 151px rgb(251, 191, 36);
+  animation: neon-pulse 1.5s infinite alternate;
+}
+
+@keyframes neon-pulse {
+  0% {
+    text-shadow: 
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px rgb(251, 191, 36),
+      0 0 82px rgb(251, 191, 36),
+      0 0 92px rgb(251, 191, 36),
+      0 0 102px rgb(251, 191, 36),
+      0 0 151px rgb(251, 191, 36);
+  }
+  100% {
+    text-shadow: 
+      0 0 5px #fff,
+      0 0 7px #fff,
+      0 0 15px #fff,
+      0 0 30px rgb(251, 191, 36),
+      0 0 60px rgb(251, 191, 36),
+      0 0 70px rgb(251, 191, 36),
+      0 0 80px rgb(251, 191, 36),
+      0 0 120px rgb(251, 191, 36);
+  }
+}
+
+/* Enhanced 3D Grid */
+.cyber-grid {
+  background-size: 50px 50px;
+  background-image: 
+    linear-gradient(to right, rgba(251, 191, 36, 0.1) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(251, 191, 36, 0.1) 1px, transparent 1px);
+  transform-style: preserve-3d;
+  perspective: 1000px;
+  animation: grid-pulse 4s linear infinite;
+}
+
+@keyframes grid-pulse {
+  0%, 100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0.1;
+  }
+}
+
+/* Holographic Card Effect */
+.holographic {
+  position: relative;
+  background: linear-gradient(
+    135deg,
+    rgba(255,255,255,0.1) 0%,
+    rgba(255,255,255,0.2) 50%,
+    rgba(255,255,255,0.1) 100%
+  );
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.2);
+  transform-style: preserve-3d;
+  transition: all 0.3s ease;
+}
+
+.holographic::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    45deg,
+    transparent 0%,
+    rgba(251, 191, 36, 0.2) 45%,
+    rgba(251, 191, 36, 0.3) 50%,
+    rgba(251, 191, 36, 0.2) 55%,
+    transparent 100%
+  );
+  filter: brightness(1.5) contrast(1.5);
+  mix-blend-mode: color-dodge;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.holographic:hover::before {
+  opacity: 1;
+}
+
+/* Floating Animation */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  25% {
+    transform: translateY(-15px) rotate(2deg);
+  }
+  75% {
+    transform: translateY(15px) rotate(-2deg);
+  }
+}
+
+.floating {
+  animation: float 6s ease-in-out infinite;
+}
+
+/* Lightning Text Effect */
+.lightning-text {
+  position: relative;
+  z-index: 1;
+}
+
+.lightning-text::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  right: -10px;
+  bottom: -10px;
+  background: radial-gradient(
+    circle at center,
+    rgba(251, 191, 36, 0.2) 0%,
+    transparent 70%
+  );
+  filter: blur(20px);
+  animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  0% {
+    opacity: 0.5;
+    transform: scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+}
+
+/* Mask gradient for InfoCard */
+.mask-linear-gradient {
+  mask-image: linear-gradient(to bottom, 
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+}
+
+/* 3D Transform Utilities */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Product Card Hover Effects */
+.product-card-hover {
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+
+.product-card-hover:hover {
+  transform: rotateY(180deg);
+}
+
+/* Particle Canvas */
+.particle-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Sticky Header */
+.header-scroll-shadow {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}

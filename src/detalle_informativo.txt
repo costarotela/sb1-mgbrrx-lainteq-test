@@ -1,0 +1,238 @@
+🔬 Laboratorio de Control de Calidad
+Nuestro laboratorio garantiza los más altos estándares en cada producto.
+
+🧪 Investigación y Desarrollo
+Innovamos constantemente para ofrecer soluciones de vanguardia.
+
+🏭 Producción Controlada
+Cada lote es monitoreado para asegurar consistencia y calidad.
+
+💪 Resistencia Comprobada
+Nuestros productos son sometidos a rigurosas pruebas de durabilidad.
+
+🌡️ Control de Temperatura
+Monitoreamos las condiciones ambientales durante todo el proceso.
+
+✨ Calidad Certificada
+Cumplimos con las normas IRAM y estándares internacionales.
+
+🔄 Mejora Continua
+Trabajamos constantemente para optimizar nuestros procesos y productos.
+
+Adhesivos
+Introducción
+El adhesivo es una sustancia en estado líquido o semilíquido con capacidad de mantener dos materiales juntos mediante la adhesión de superficies.
+Los adhesivos pueden provenir ya sea de una fuente natural o sintética. Los tipos de materiales que se pueden unir son enormes, pero son especialmente útiles para la unión de materiales delgados. Los adhesivos pueden curar (endurecer) por evaporación de un disolvente o por reacciones químicas que ocurren entre dos o más componentes.
+Los adhesivos son ventajosos para la unión de materiales delgados o diferentes, la reducción del peso, y cuando una amortiguación de las vibraciones se necesita. Una desventaja de los adhesivos es que no forman un conjunto instantáneo, a diferencia de la mayoría de los otros procesos de unión, porque el adhesivo necesita tiempo para curar
+
+Historia
+En la antigüedad, y desde tiempos inmemoriales, se han usados ceras, resinas naturales, gomas y breas asfálticas como adhesivos calientes (fundidos) para unir una variedad de materiales, y muchos de estos aún son usados hoy en día con éxito. Se sabe que adhesivos resinosos eran usados por los egipcios hace 6000 años atrás para unir vasijas de cerámica. Otros adhesivos, tales como la caseína de la leche, almidón, azúcar, y cola de animales y pescado.
+El más antiguo adhesivo conocido, que data de alrededor de 200.000 años antes de Cristo, es a partir de corteza de abedul-alquitrán para unir una punta de lanza de piedra pegado a la madera, encontrada en el centro de Italia. El uso de colas compuestas en mangos de lanzas de piedra y madera se remonta a alrededor de 70.000 años antes de Cristo. La evidencia de esto se ha encontrado en Sudáfrica y las colas compuestas utilizadas fueron hechas de goma vegetal y rojo ocre
+En el presente siglo se han descubierto resinas, elastómeros, derivados de la celulosa y otros productos que han traído un mayor número de aplicaciones de los adhesivos en la industria. Por ejemplo: Empaquetamiento, se han logrado grandes procesos con los adhesivos termooclusivos que se aplican en capas delgadas de papel, celofán, etc. Algunos adhesivos que experimentan reacciones químicas y que son los más recientes, prometen reemplazar a las soldaduras, los remaches, etc. Los adhesivos que operan por presión, como los que usan en cintas facilitan muchas operaciones industriales.
+
+Factores que modifican la adherencia 
+Afinidad del adhesivo por el material de los objetos que se van a unir. En algunos adhesivos que contienen ingredientes con grupos reactivos, puede ser importante la afinidad del adhesivo con la superficie, y en algunos casos se producen reacciones químicas.
+Tendencia del adhesivo a mojar la superficie del material facilitando el contacto entre éste y la superficie. 
+Consistencia y continuidad de la materia adhesiva. 
+Tendencia del adhesivo a penetrar la superficie del material. 
+Espesor y flexibilidad de la capa adhesiva.
+
+Fuerzas de adherencia
+La adherencia se basa en 2 tipos de fuerzas intermoleculares: enlaces van der Waals y uniones químicas.
+Las fuerzas de van der Waals son la base de la adherencia. Estas fuerzas de atracción actúan entre el adhesivo y el sustrato.
+Los enlaces químicos producen el tipo de adherencia más resistente. Estas fuerzas se desarrollan cuando el sustrato tiene grupos químicos que reaccionan con el adhesivo.
+El trabado mecánico tiene un papel en la adherencia; sin embargo, no suele ser el mecanismo primario.
+Algunos grupos químicos destacan por su capacidad para formar enlaces de van der Waals. Estos grupos pueden mejorar la adherencia cuando están presentes en el adhesivo o en el sustrato.
+
+Los polímeros que tienen propiedades bajas de adherencia pueden mejorarse con la adición de un pequeño porcentaje de un ácido orgánico o de acrilonitrilo. Los recubrimientos y películas de tipo Sarán son excelentes ejemplos de este procedimiento.
+Las resinas de recubrimiento de cloruro de polivinilideno exhiben una notable mejora de adherencia al copolimerizarse con 1-2% de un ácido orgánico. Los adhesivos de tipo epoxi tienen adhesiones altas sin necesidad de aditivos. Las resinas epoxi tienen grupos oxidrilo o amina en el polímero curado.
+Para lograr la adherencia es necesario que los materiales queden en contacto íntimo. Este principio se basa en el fenómeno de la tensión superficial.
+
+Tensión superficial
+Todos los materiales, ya sean líquidos o sólidos, tienen fuerzas superficiales. A estas fuerzas se les llama tensión superficial en los líquidos y energía superficial en los sólidos. Imagínese una gota de un líquido sobre una superficie plana. La tensión del líquido tiende a darle forma de montículo. El sólido en cambio, trata de extenderla hacia una forma plana.
+Si la energía superficial del sólido es mayor que la del líquido, la gota se extenderá.
+
+Preparación de las superficies
+La limpieza de una superficie aumenta la tensión superficial y, por consiguiente, la adherencia.
+Existen diversas técnicas para preparar las superficies metálicas que se desean pegar. Primero es necesario eliminar la grasa y el aceite (generalmente por medio de disolventes). la limpieza con disolventes no suele ser suficiente para obtener una superficie adecuada para la adherencia. Puede ser necesario tratar las superficies por medio de métodos químicos o mecánicos, para eliminar los óxidos, etc. El método más adecuado es el ataque químico con mezcla crómica, que produce mejores resultados con el tiempo que la abrasión metálica. Los cromatos reaccionan con la superficie, proporcionando una protección contra la oxidación.
+Es importante que las superficies se peguen inmediatamente después de la limpieza. Los contaminantes suspendidos en el aire pueden reducir la adherencia a la mitad en menos de una hora.
+
+Tratamientos de superficies
+El polietileno, el polipropileno, el teflón y los acetales requieren preparaciones especiales de sus superficies para funcionar con adhesivos normales. Un ataque apropiado es adecuado para todos estos materiales. El polietileno, el polipropileno y los acetales pueden tratarse con diversos procesos para aumentar la tensión superficial por encima de la del adhesivo. El teflón, resina muy estable puede adherirse después de un ataque con sodio. Esto elimina flúor de la superficie, dejando una capa carbonosa café.
+
+A continuación se escriben algunos tratamientos de superficies.
+Plásticos
+	
+Tratamiento
+Polietileno y polipropileno
+	
+Ataque con mezcla crómica
+Tratamiento a la flama
+Tratamiento con gas ionizado para películas
+Acetales
+	
+Ataque para acetales de Dupont
+Tratamiento con gas activado (plasma de helio u oxígeno)
+Fluorocarbono TFE (Teflón)
+	
+Ataque Sódico
+
+La rugosidad superficial influye enormemente en la resistencia de la adhesión. La relación exacta entre resistencia, durabilidad y rugosidad superficial es difícil de prever y puede variar entre adhesivos. Superficies rugosas proporcionan un anclaje mecánico para el adhesivo, pero pueden quedar atrapados pequeños volúmenes de aire, causando un mojado incompleto. Es posible que los adhesivos rígidos sean más compatibles con superficies suaves que los adhesivos flexibles a causa de la ausencia de puntos de rugosidad que eviten la aparición de puntas de tensión que a su vez podrían actuar como iniciadores de la fractura. Los adhesivos flexibles pueden deformarse bajo tensiones y resistir la rotura o el desgarro, de modo que la rugosidad no es un factor crítico para su uso.
+Desde el punto de vista de la adhesión son preferibles acabados groseros a acabados finos que disminuyen la superficie real del material, haciendo más difícil el anclaje mecánico y disminuyendo la extensión de la interfase adhesivo-sustrato.
+La viscosidad del adhesivo debe ser adecuada a la estructura geométrica fina y al estado energético de la superficie. Esto significa que las desigualdades de la superficie deben ser rellenadas y que las capas de adhesivo deben tener un espesor capaz de recubrir las holguras entre los sustratos. De ser así, la totalidad de la superficie podrá participar en la adherencia.
+
+CLASIFICASION DE LOS ADHESIVOS
+
+A.- Clasificación en función de sus componentes
+Adhesivos sintéticos: a base de polímeros derivados del petróleo (colas de polivinil acetato, colas etilénicas, colas de poliuretano, colas de caucho sintético, adhesivos anaeróbicos o de cianoacrilato)
+
+Adhesivos de origen vegetal: a base de derivados de la fécula de patata, el maíz (colas de almidón, dextrinas, cauchos naturales)
+
+Adhesivos de origen animal: a base de pieles de animales (colas de gelatina) o de derivados lácteos (colas de caseína).
+
+B.- Clasificación en función de su presentación
+Adhesivos sólidos. Destacan los adhesivos termofusibles que se utilizan en procesos industriales que los calientan para fundirlos, aprovechando su propiedad de enfriarse rápidamente para acelerar los procesos productivos. También son adhesivos sólidos las barras de pegamento para papel o los adhesivos en polvo (a base de acetato o formaldehído entre otros).
+
+Adhesivos líquidos. Comúnmente conocidos como colas blancas (en su mayoría tienen un color blanco o crema), utilizan en su composición un vehículo líquido (normalmente agua o disolvente) que una vez utilizado tiende a perder, hasta obtener un secado que hace que la unión sea resistente. Son usados en la construcción (adhesivos para pavimentos y revestimientos como moquetas, PVC, linoleum, etc.).
+
+    Adhesivos de tipo acrílico
+    Adhesivos de cianoacrilatos
+    Adhesivos epóxicos y uretanos
+    Adhesivos anaeróbicos
+    Adhesivos de silicona
+    Adhesivos curados por luz ultravioleta
+    Adhesivos de caucho natural
+    Adhesivos de caucho sintético o caucho clorado
+
+C.- Clasificación en función de su uso
+Adhesivos industriales: aquellos que se utilizan en multitud de procesos de fabricación para realizar uniones. Las colas y adhesivos se utilizan ampliamente en los siguientes sectores:
+1.    Artes gráficas (encuadernación de libros)
+2.   Transformación del papel y cartón (papel higiénico, fabricación de cartón ondulado, encolado de estuches de cartón, fabricación de compresas y pañales, autoadhesivado de papel)
+3.  Envase y embalaje (cerrado de cajas, sobres y bolsas, etiquetado de envases, botellas y latas)
+4.   Mueble y madera (fabricación de muebles, ensamblaje de madera, fabricación de puertas, tapicería de sillas y sillones)
+5.   Industria auxiliar del automóvil (montaje de paneles de puertas, techos de vehículos, tapicería de asientos)
+
+Adhesivos profesionales: utilizados para la instalación o unión de materiales, sobre todo en la construcción (adhesivos para pavimentos y revestimientos como moquetas, PVC)
+Adhesivos para uso doméstico o infantil: colas para uso doméstico y de papelería.
+Adhesivos de uso hogareño
+
+D.- Clasificación en función de su curado
+Adhesivos químicamente reactivos: Se encuentran incluidos los poliuretanos, epoxis, fenólicos, poliimidas y anaeróbicos. Hay de uno y de dos componentes; los primeros se curan por reaccionar químicamente a la temperatura, a la humedad o al calor, mientras que los de dos componentes al entrar en contacto las dos resinas. Existen tres tipos de reacciones:
+1.- Cambios por enlaces transversales: Una cantidad muy pequeña del reactivo que se añade produce modificaciones en la solubilidad y punto de reblandecimiento del adhesivo, como ocurre en la vulcanización del caucho
+2.- Condensación: Hay un aumento del tamaño molecular y se forma un nuevo producto como ocurre en el curado del fenol- formaldehído.
+3.- Polimerización: Crecimiento molecular por una combinación de unidades estructurales. Ejemplos: Esteres de alilo, ésteres acrílicos, y ésteres metilacrílicos
+Adhesivo reactivo de un componente
+Los adhesivos de un componente se endurecen por medio de una reacción química con una fuente de energía externa, como la radiación, el calor y la humedad.
+Los adhesivos de curado por radiación de luz ultravioleta (UV), se han hecho populares en el sector manufacturero debido a su tiempo de curado rápido y una fuerza de unión fuerte. Luz adhesivos de curado puede curar en tan sólo un segundo y existen muchas formulaciones que pueden unir sustratos diferentes (materiales) y soportar temperaturas extremas. Estas cualidades hacen de los adhesivos de curado UV esencial para la fabricación de productos en muchos mercados industriales como la electrónica, telecomunicaciones, médico, aeroespacial, de vidrio y óptica. A diferencia de los adhesivos tradicionales, los adhesivos de curado de luz UV no sólo unen los materiales, sino también puede ser usado para sellar. Por lo general son de base acrílica.
+Adhesivos de calor curado consiste en una mezcla pre-hecha de dos o más componentes. Cuando se aplica calor los componentes reaccionan y reticulan. Este tipo de adhesivo incluye epóxicos, uretanos y poliamidas.
+Adhesivos de curado por humedad cura cuando reaccionan con la humedad presente en la superficie del sustrato o en el aire. Este tipo de adhesivo incluye cianoacrilatos y uretanos.
+Adhesivo reactivo de varios componentes
+Los adhesivos múltiples componentes se endurecen mediante la mezcla de dos o más componentes que reaccionan químicamente. Esta reacción produce polímeros reticulados como acrílicos, poliuretanos y resinas epóxicas
+
+Adhesivo por evaporación o difusión: Estos se preparan como solución al disolverse en solventes orgánicos o en agua y se aplican sobre el lugar que se quiere mantener pegado. Hay una preferencia notable hacia los adhesivos de base agua por el hecho de que de la seguridad ambiental que representa su consumo. Vinilos y acrílicos son ejemplos.
+Ejemplos
+
+    Nitrocelulosa
+    Colas proteicas y gomas almidones
+    Caucho natural (disuelto en solventes orgánicos)
+    Hidrocarburos alifáticos (disolvente polar que disminuye la viscosidad)
+    Caucho clorado, polímeros cloropreno (neopreno)
+    Copolímeros de butadieno y acrilonitrilo. Disuelto en hidrocarburos aromáticos (neoprén).
+    Resinas vinílicas. Acetato polivinílico, acetales polivinílicos solubles en alcoholes alifáticos inferiores, cetonas, esteres y hidrocarburos aromáticos.
+    Polímeros de esteres acrílicos y metilacrílicos, disueltos en hidrocarburos aromáticos, esteres alifáticos, hidrocarburos clorados.
+
+Adhesivo de nitrocelulosa
+Adhesivos de fusión por calor: Conformados por termoplásticos y elastómeros que se funden sobre la superficie a pegar si son calentados. El grupo de alto rendimiento está formado por las poliamidas y los poliésteres.
+Los adhesivos de fusión también pueden obtenerse como película. En esta forma, la junta se cierra presionando la película. Al calentar la película se funde y fluye. Algunos artículos de vestir se pegan hoy en día de esta manera en lugar de cocerlas, al igual que las antiguas calcomanías que se pegaban con plancha.
+Pistola para aplicación de adhesivo de fusión por calor
+Adhesivos sensibles a la presión: Son principalmente elastómeros fabricados en forma de recubrimiento. Se les aplica presión para provocar la adherencia. La principal materia prima para los adhesivos sensibles a la presión son polímeros a base acrilato.
+Este tipo de adhesivos pueden ser permanentes o temporarios
+Ejemplos de aplicaciones permanentes incluyen las etiquetas de seguridad para equipos eléctricos, cinta de aluminio para trabajos de electricidad, montaje acabado en interiores de autos, y las películas de amortiguación de sonido y vibración
+Adhesivos removibles están diseñados para formar una unión temporal, y lo ideal puede ser retirado después de meses o años sin dejar residuos en la adherencia.
+Los adhesivos removibles se utilizan en aplicaciones tales como las películas de protección de superficies, cintas adhesivas, papeles y marcadores, las etiquetas de marcado de precios, materiales gráficos de promoción y de contacto con la piel (apósitos para heridas, cinta atlética, parches transdérmicos y analgésico). Algunos adhesivos removibles están diseñados para pegarse y despegarse en repetidas ocasiones. Tienen baja adherencia y por lo general no pueden soportar mucho peso.
+Notas con adhesivo de poca adhesión (Post-it)
+
+AGENTES DE ACOPLAMIENTO
+Silanos
+Existe una serie de materiales químicos duales que pueden ayudar a la adherencia. Estos compuestos tienen dos extremos funcionales diferentes. Los más comunes de estos compuestos son los silanos. Estos materiales tienen un extremo que produce buena adherencia al vidrio o a otros materiales inorgánicos. El otro extremo es químicamente reactivo.
+Durante su uso, el extremo de silano se hidroliza para formar un enlace. Esto se logra mezclando el agente de acoplamiento con agua, o por medio de absorción de humedad del aire después de la aplicación.
+El hidroxisilano puede formar enlaces químicos fuertes con el vidrio y otros materiales inorgánicos. (Ver materiales compuestos)
+Los adhesivos de polímeros orgánicos pueden copolimerizarse con el extremo orgánico del silano.
+Con frecuencia, los agentes de acoplamiento pueden mezclarse con las resinas para que no haya necesidad de aplicarlos como capa base. Por lo general, los silanos se añaden en un 0.5-2% de la resina. Este método de acoplamiento es muy útil cuando se usa cargas en polvo con las resinas.
+Titanatos
+Recientemente se han desarrollado titanatos de química dual. Estos compuestos funcionan de manera similar a los silicones y, con frecuencia, con ventajas sobre éstos.
+
+Tabla resumen de adhesivos
+Tipo de adhesivo
+	
+Limite de
+temperatura (ºC)
+	
+Temperatura de
+curado (ºC)
+	
+Usos típicos
+Epoxi poliamida
+Epoxi aminas
+Epoxi fenólicos
+	
+93
+93-204
+260-315
+	
+93
+149
+163
+	
+General, semiflexible
+General, materiales no similares
+Metales y plásticos para altas temperaturas
+Poliéster
+Silicones
+	
+93-149
+204-315
+	
+
+	
+General, bajo costo
+Alta temperatura, flexible
+Poliimidas
+Acetato de polivinilo
+	
+315-482
+Aprox. 93
+	
+177
+	
+Alta temperatura Madera, etc.
+Acrílico con disolventes
+Acrílico de curado
+	
+Aprox. 149
+Aprox. 149
+	
+
+	
+Estireno, ABS, Acrílicos
+Poliéster, ABS, Madera, Metales, etc.,
+Nitrocelulosa
+Caucho
+Poliuretano
+	
+Aprox. 93
+66-204
+82-121
+	
+
+	
+General, Madera, Papel
+Cemento de contacto
+Nylon, Dacrón, Poliuretanos, Vinilo, Aplicaciones criogénicas, etc.
+Cianoacrilatos
+	
+121-246
+	
+
+	
+Ciertos plásticos, Metales, Caucho, etc.
